@@ -1,0 +1,15 @@
+1) Summarize of Web Development Eras: 
+
+ - Web 1.0 
+ Web 1.0 were used within 1990 to 2000 . At that time 
+the web site like GeoCities were build with HTML ,CSS , basic JavaScript and Server- side language like CGI and Perl.
+The web site was just a simple display of pages , no interactions. The only operation of a user was just to read content.
+
+- Web 2.0 
+
+After the period of only read-content web site , developer decided to add some improvement . 
+Web site like Facebook , YouTube and Wikipedia were developed with the help of Ajax , JavaScript framework like React and Angular , Apis and Content Management system .
+These lead to new feature like interactive and user - generated content and dynamic web applications.
+
+- Web 3.0 
+Web 3.0 came with the concept of Decentralization , Ai- driven content, semantic web and the fundamental concept of blockchain integration Focus on ownership and transparency .To build Decentralized apps , NFTs tools like Blockchain , smart contracts , WebAssembly , and Ai- based framework were used 
